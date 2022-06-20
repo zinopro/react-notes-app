@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "text": "just click and on the note and start typing. when you done click the save icon.",
+      "lastModified": 1655690894905,
+      "color": "#fff2ab",
+      "id": 3
+    },
+    {
+      "text": "another new note",
+      "lastModified": 1655692089205,
+      "color": "#fff2ab",
+      "id": 4
+    },
+    {
+      "text": "make sure to run json-server first(npm run server) and then run the app (npm start).",
+      "lastModified": 1655692336097,
+      "color": "#fff2ab",
+      "id": 5
+    }
+  ]
+}
